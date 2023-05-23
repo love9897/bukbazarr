@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "470365759159",
+    "project_id": "bukky-cd97a",
+    "storage_bucket": "bukky-cd97a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470365759159:android:2a113ae1256c990efa0f32",
+        "android_client_info": {
+          "package_name": "com.example.bukbazarr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470365759159-ski731luqfesp7c8b1uehv96l0csubid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bukbazarr",
+            "certificate_hash": "a41f3793192b45aeb89580d6438430e6c18428bb"
+          }
+        },
+        {
+          "client_id": "470365759159-lrenu182uohqjolqim74rqmbs77grcab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSgCrrp3kzPwmeNtuNG-sjCh1_MMfPoqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470365759159-lrenu182uohqjolqim74rqmbs77grcab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
