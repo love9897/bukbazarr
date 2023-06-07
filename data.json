@@ -1,0 +1,830 @@
+ [
+        {
+            "kind": "books#volume",
+            "id": "CzIyBgAAQBAJ",
+            "etag": "GJmEcXRIA5A",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/CzIyBgAAQBAJ",
+            "volumeInfo": {
+                "title": "Start Your Own Business, Sixth Edition",
+                "subtitle": "The Only Startup Book You'll Ever Need",
+                "authors": [
+                    "The Staff of Entrepreneur Media"
+                ],
+                "publisher": "Entrepreneur Press",
+                "publishedDate": "2015-01-19",
+                "description": "Tapping into more than 33 years of small business expertise, the staff at Entrepreneur Media takes today’s entrepreneurs beyond opening their doors and through the first three years of ownership. This revised edition features amended chapters on choosing a business, adding partners, getting funded, and managing the business structure and employees, and also includes help understanding the latest tax and healthcare reform information and legalities.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781613083000"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1613083009"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 563,
+                "printType": "BOOK",
+                "categories": [
+                    "Business & Economics"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.5.5.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=CzIyBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=CzIyBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=CzIyBgAAQBAJ&printsec=frontcover&dq=Business+enterprenaur&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.co.in/books?id=CzIyBgAAQBAJ&dq=Business+enterprenaur&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Start_Your_Own_Business_Sixth_Edition.html?hl=&id=CzIyBgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Start_Your_Own_Business_Sixth_Edition-sample-epub.acsm?id=CzIyBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=CzIyBgAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This revised edition features amended chapters on choosing a business, adding partners, getting funded, and managing the business structure and employees, and also includes help understanding the latest tax and healthcare reform information ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "1nAfDgAAQBAJ",
+            "etag": "NTL0T1Pm1B4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/1nAfDgAAQBAJ",
+            "volumeInfo": {
+                "title": "The Harvard Business Review Entrepreneur's Handbook",
+                "subtitle": "Everything You Need to Launch and Grow Your New Business",
+                "authors": [
+                    "Harvard Business Review"
+                ],
+                "publisher": "Harvard Business Press",
+                "publishedDate": "2018-01-23",
+                "description": "The one primer you need to develop your entrepreneurial skills. Whether you're imagining your new business to be the next big thing in Silicon Valley, a pivotal B2B provider, or an anchor in your local community, the HBR Entrepreneur's Handbook is your essential resource for getting your company off the ground. Starting an independent new business is rife with both opportunity and risk. And as an entrepreneur, you're the one in charge: your actions can make or break your business. You need to know the tried-and-true fundamentals--from writing a business plan to getting your first loan. You also need to know the latest thinking on how to create an irresistible pitch deck, mitigate risk through experimentation, and develop unique opportunities through business model innovation. The HBR Entrepreneur's Handbook addresses these challenges and more with practical advice and wisdom from Harvard Business Review's archive. Keep this comprehensive guide with you throughout your startup's life--and increase your business's odds for success. In the HBR Entrepreneur's Handbook you'll find: Step-by-step guidance through the entrepreneurial process Concise explanations of the latest research and thinking on entrepreneurship from Harvard Business Review contributors such as Marc Andreessen and Reid Hoffman Time-honed best practices Stories of real companies, from Airbnb to eBay You'll learn: Which skills and characteristics make for the best entrepreneurs How to gauge potential opportunities The basics of business models and competitive strategy How to test your assumptions--before you build a whole business How to select the right legal structure for your company How to navigate funding options, from venture capital and angel investors to accelerators and crowdfunding How to develop sales and marketing programs for your venture What entrepreneurial leaders must do to build culture and set direction as the business keeps growing HBR Handbooks provide ambitious professionals with the frameworks, advice, and tools they need to excel in their careers. With step-by-step guidance, time-honed best practices, real-life stories, and concise explanations of research published in Harvard Business Review, each comprehensive volume helps you to stand out from the pack--whatever your role.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781633693692"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1633693694"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 304,
+                "printType": "BOOK",
+                "categories": [
+                    "Business & Economics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.5.6.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=1nAfDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=1nAfDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=1nAfDgAAQBAJ&pg=PP1&dq=Business+enterprenaur&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.co.in/books?id=1nAfDgAAQBAJ&dq=Business+enterprenaur&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Harvard_Business_Review_Entrepreneur.html?hl=&id=1nAfDgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/The_Harvard_Business_Review_Entrepreneur-sample-epub.acsm?id=1nAfDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/The_Harvard_Business_Review_Entrepreneur-sample-pdf.acsm?id=1nAfDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=1nAfDgAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Keep this comprehensive guide with you throughout your startup&#39;s life--and increase your business&#39;s odds for success."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "QDhuDwAAQBAJ",
+            "etag": "7EyB6F9mjno",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/QDhuDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Entrepreneur",
+                "subtitle": "Building Your Business From Start to Success",
+                "authors": [
+                    "Lars Tvede",
+                    "Mads Faurholt"
+                ],
+                "publisher": "John Wiley & Sons",
+                "publishedDate": "2018-09-11",
+                "description": "Build a world class business with a clear blueprint to success Entrepreneur: Building Your Business From Start to Success is your guidebook to achieving entrepreneurial success. Whether you’re an existing business owner seeking to increase your reach, or a budding entrepreneur ready to take the next step, this book provides invaluable guidance from experts who have made it happen time and time again. A simple step-by-step process will help you translate your ideas into effective business plans, raise the capital needed to start and grow your business, build a winning team and leave the competition behind. Drawing upon their experience founding more than 30 companies, the authors share their entrepreneurial wisdom and reveal the real-world techniques that lead to success. With a pragmatic and personal approach, the authors explore the personal characteristics that are vital to achievement; managing stress, withstanding heavy workloads and coping with potential health concerns are subjects often overlooked in the pursuit of business achievement. Addressing the link between business concerns and personal welfare, the authors offer suggestions on how to most effectively reconcile entrepreneurial drive with personal well-being. Build or revitalise a business with proven methods from two globally-recognized experts in the field Develop an effective business plan to maximise your probability of success Understand funding markets and raise capital necessary to start or grow your business Grow your business by beating the competition and dominating your market Providing invaluable insight into real-world entrepreneurial methods that work, this book arms current and future business leaders with the skills, knowledge and motivation to create the organization of their dreams.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781119521259"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1119521254"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 480,
+                "printType": "BOOK",
+                "categories": [
+                    "Business & Economics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.0.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=QDhuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=QDhuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=QDhuDwAAQBAJ&pg=PP1&dq=Business+enterprenaur&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=QDhuDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QDhuDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 2033.14,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 2033.14,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=QDhuDwAAQBAJ&rdid=book-QDhuDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 2033140000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 2033140000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Entrepreneur-sample-epub.acsm?id=QDhuDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Entrepreneur-sample-pdf.acsm?id=QDhuDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=QDhuDwAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This book tells you how to be successful as an entrepreneur.&quot; —Taavi Roivas, former Prime Minister of Estonia and youngest Prime Minister in the European Union &quot;A great practical guide by entrepreneurs for entrepreneurs on the power of ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "o15BDwAAQBAJ",
+            "etag": "KdrfYUEKfDw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/o15BDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Leapfrog",
+                "subtitle": "The New Revolution for Women Entrepreneurs",
+                "authors": [
+                    "Nathalie Molina Niño",
+                    "Sara Grace"
+                ],
+                "publisher": "Penguin",
+                "publishedDate": "2018-08-28",
+                "description": "For women entrepreneurs (and anyone sick of the status quo), this smart, unapologetic collection delivers fifty proven hacks to leapfrog over obstacles and succeed in business. \"A must-read for any woman who has a great idea and the nagging thought that doors are closed to her; Molina Niño helps to blow them open.\"--Publishers Weekly Think the most critical factor for becoming a great entrepreneur is grit, risk-taking, or technical skills? Think again. Despite what every other business book might say, historical data show the real secret ingredients to getting ahead in business are being rich, white, and male. Until now. Leapfrog is the decades-overdue startup bible for the rest of us. It's filled with uncompromising guidance for winning at business, your way. Leapfrog is for entrepreneurs of all stripes who are fed up with status quo advice--the kind that assumes you have rich friends and family and a public relations team. Refreshingly frank and witty, author Nathalie Molina Niño is a serial tech entrepreneur, the founder and CEO of BRAVA Investments, and a proud daughter of Latinx immigrants. While teaching budding entrepreneurs at Barnard College at Columbia University and searching the globe for investment-worthy startups, she has met or advised thousands of entrepreneurs who've gone from zero to scalable business. Here she shares their best secrets in the form of fifty \"leapfrogs\"--clever loopholes and shortcuts to outsmart, jump over, or straight up annihilate the seemingly intractable hurdles facing entrepreneurs who don't have family money, cultural capital, or connections.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780525503927"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0525503927"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 256,
+                "printType": "BOOK",
+                "categories": [
+                    "Business & Economics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.4.3.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=o15BDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=o15BDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=o15BDwAAQBAJ&printsec=frontcover&dq=Business+enterprenaur&hl=&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=o15BDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=o15BDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 409.92,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 286.94,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=o15BDwAAQBAJ&rdid=book-o15BDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 409920000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 286940000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Leapfrog-sample-epub.acsm?id=o15BDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=o15BDwAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "For women entrepreneurs (and anyone sick of the status quo), this smart, unapologetic collection delivers fifty proven hacks to leapfrog over obstacles and succeed in business."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "rGpECQAAQBAJ",
+            "etag": "nSVeCeFA10A",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/rGpECQAAQBAJ",
+            "volumeInfo": {
+                "title": "Systemic Entrepreneurship",
+                "subtitle": "Contemporary Issues and Case Studies",
+                "authors": [
+                    "Gideon Maas"
+                ],
+                "publisher": "Springer",
+                "publishedDate": "2015-05-12",
+                "description": "Systemic Entrepreneurship focuses on creating an awareness of systemic entrepreneurship and illustrates the fact that one needs to approach entrepreneurial support activities from many different angles.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781137509802"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1137509805"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 130,
+                "printType": "BOOK",
+                "categories": [
+                    "Business & Economics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=rGpECQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=rGpECQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=rGpECQAAQBAJ&printsec=frontcover&dq=Business+enterprenaur&hl=&cd=5&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=rGpECQAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rGpECQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 4200.8,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 4200.8,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=rGpECQAAQBAJ&rdid=book-rGpECQAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 4200800000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 4200800000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Systemic_Entrepreneurship-sample-epub.acsm?id=rGpECQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Systemic_Entrepreneurship-sample-pdf.acsm?id=rGpECQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=rGpECQAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Systemic Entrepreneurship focuses on creating an awareness of systemic entrepreneurship and illustrates the fact that one needs to approach entrepreneurial support activities from many different angles."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "95zgDQAAQBAJ",
+            "etag": "wDKdriTM9L8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/95zgDQAAQBAJ",
+            "volumeInfo": {
+                "title": "Public Sector Entrepreneurship and the Integration of Innovative Business Models",
+                "authors": [
+                    "Lewandowski, Mateusz",
+                    "Ko?uch, Barbara"
+                ],
+                "publisher": "IGI Global",
+                "publishedDate": "2017-01-05",
+                "description": "While private, for-profit businesses have typically been the most experienced with entrepreneurship, the study of public sector business models is coming to the forefront of entrepreneurial discussions. This shift has allowed researchers and practitioners to expand on their knowledge of positive business choices and paved the way for more profitable business empires. Public Sector Entrepreneurship and the Integration of Innovative Business Models is a comprehensive source of academic research that discusses the latest entrepreneurial strategies, achievements, and challenges in public sector contexts. Highlighting relevant topics such as public management, crowdsourcing, municipal cooperation, and public sector marketing, this is an ideal resource for managers, practitioners, researchers, and professionals interested in learning more about public sector business ideals, and how these models are shaping positive entrepreneurial communities around the world.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781522522164"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1522522166"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 309,
+                "printType": "BOOK",
+                "categories": [
+                    "Business & Economics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=95zgDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=95zgDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=95zgDQAAQBAJ&printsec=frontcover&dq=Business+enterprenaur&hl=&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=95zgDQAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=95zgDQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 18458.67,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 18458.67,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=95zgDQAAQBAJ&rdid=book-95zgDQAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 18458670000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 18458670000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Public_Sector_Entrepreneurship_and_the_I-sample-pdf.acsm?id=95zgDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=95zgDQAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Highlighting relevant topics such as public management, crowdsourcing, municipal cooperation, and public sector marketing, this is an ideal resource for managers, practitioners, researchers, and professionals interested in learning more ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "xas5r735spsC",
+            "etag": "WLG5YeWtLEc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/xas5r735spsC",
+            "volumeInfo": {
+                "title": "Business's Most Wanted",
+                "subtitle": "The Top 10 Book of Corporate Greed, Eccentric Entrepreneurs, and Management Oddities",
+                "authors": [
+                    "Jim Romeo"
+                ],
+                "publisher": "Potomac Books, Inc.",
+                "publishedDate": "2005",
+                "description": "A fun look inside the corporate world",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1574886614"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781574886610"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 292,
+                "printType": "BOOK",
+                "categories": [
+                    "Humor"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.8.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=xas5r735spsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=xas5r735spsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=xas5r735spsC&dq=Business+enterprenaur&hl=&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.co.in/books?id=xas5r735spsC&dq=Business+enterprenaur&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Business_s_Most_Wanted.html?hl=&id=xas5r735spsC"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=xas5r735spsC&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "A fun look inside the corporate world"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "UM-1kAMBZFAC",
+            "etag": "BzJ2pdZQ7Y0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/UM-1kAMBZFAC",
+            "volumeInfo": {
+                "title": "Journal of Small Business and Entrepreneurship",
+                "publishedDate": "1985",
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 64,
+                "printType": "MAGAZINE",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=UM-1kAMBZFAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=UM-1kAMBZFAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=UM-1kAMBZFAC&pg=RA1-PA45&dq=Business+enterprenaur&hl=&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.co.in/books?id=UM-1kAMBZFAC&dq=Business+enterprenaur&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Journal_of_Small_Business_and_Entreprene.html?hl=&id=UM-1kAMBZFAC"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=UM-1kAMBZFAC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "It could examine different facets of, and variables affecting stages of, <b>entrepreneurial</b> development and <b>business</b> growth. Defining an <b>entrepreneur</b> more specifically for the purposes of reseach study often becomes a problem."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "GqY-ufrd2EMC",
+            "etag": "GBehOCoZbmU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/GqY-ufrd2EMC",
+            "volumeInfo": {
+                "title": "Entrepreneurship and Business",
+                "subtitle": "A Regional Perspective",
+                "authors": [
+                    "Miguel-Angel Galindo",
+                    "Joaquin Guzman",
+                    "Domingo Ribeiro"
+                ],
+                "publisher": "Springer Science & Business Media",
+                "publishedDate": "2008-10-25",
+                "description": "Miguel-Ángel Galindo Martín, Joaquín Guzman Cuevas and Domingo Ribeiro Soriano University of Castilla-La Mancha, Albacete, Spain University of Sevilla, Sevilla, Spain University of Valencia, Valencia, Spain The economic growth and the progress of the nations have been two issues that have worried to the economists during centuries. The classical eco- mics books have developed different theories and considered several f- tors that could explain those processes. Unfortunately, a single answer has not been obtained and nowadays economists try also to achieve a response to the mechanism of economic growth. Economic growth has been considered as one of the most relevant e- nomic policy. As it is well known, the validity of an economic policy is measured in terms of economic growth rate. It is supposed that those countries that obtain a higher economic growth rate are designing more efficient economic policies than those that show lower rates. The main corollary to this hypothesis is that the developing countries must follow and copy the economic policies designed by the developed countries.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783540709022"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "3540709029"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 308,
+                "printType": "BOOK",
+                "categories": [
+                    "Business & Economics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=GqY-ufrd2EMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=GqY-ufrd2EMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=GqY-ufrd2EMC&printsec=frontcover&dq=Business+enterprenaur&hl=&cd=9&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=GqY-ufrd2EMC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GqY-ufrd2EMC"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 12626,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 12626,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=GqY-ufrd2EMC&rdid=book-GqY-ufrd2EMC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 12626000000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 12626000000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Entrepreneurship_and_Business-sample-epub.acsm?id=GqY-ufrd2EMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Entrepreneurship_and_Business-sample-pdf.acsm?id=GqY-ufrd2EMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=GqY-ufrd2EMC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This book examines the relationship between entrepreneurship, growth and regional aspects of business. The text offers two broad perspectives of entrepreneurship, a historical one and a comparative perspective."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ybIe4PBc4U0C",
+            "etag": "Cfqf9fIg3/o",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ybIe4PBc4U0C",
+            "volumeInfo": {
+                "title": "Journal of Small Business and Entrepreneurship",
+                "publishedDate": "2006-07",
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 112,
+                "printType": "MAGAZINE",
+                "averageRating": 4.5,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ybIe4PBc4U0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ybIe4PBc4U0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=ybIe4PBc4U0C&printsec=frontcover&dq=Business+enterprenaur&hl=&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.co.in/books?id=ybIe4PBc4U0C&dq=Business+enterprenaur&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Journal_of_Small_Business_and_Entreprene.html?hl=&id=ybIe4PBc4U0C"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ybIe4PBc4U0C&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        }
+    ]

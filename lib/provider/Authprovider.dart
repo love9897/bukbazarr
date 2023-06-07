@@ -1,3 +1,4 @@
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -51,5 +52,27 @@ class AuthProvider extends ChangeNotifier {
     bool isLoggedIn = prefs.getBool('isLoggedIn') ?? false;
     notifyListeners();
     return isLoggedIn;
+  }
+
+
+  // 
+
+
+
+
+  final FirebaseAuth _auth = FirebaseAuth.instance;
+  User? _currentUser;
+
+  User? get currentUser => _currentUser;
+
+  Future<void> logOut() async {
+    await _auth.signOut();
+    _currentUser = null;
+    notifyListeners();
+  }
+
+  Future<void> checkCurrentUser() async {
+    _currentUser = _auth.currentUser;
+    notifyListeners();
   }
 }

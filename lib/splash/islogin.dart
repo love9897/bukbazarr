@@ -1,4 +1,3 @@
-
 import 'package:bukbazarr/provider/Authprovider.dart';
 import 'package:bukbazarr/view/login.dart';
 import 'package:bukbazarr/view/mainscreen.dart';
@@ -8,7 +7,7 @@ import 'package:provider/provider.dart';
 class checkscreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-     final checkislogin = Provider.of<AuthProvider>(context);
+    final checkislogin = Provider.of<AuthProvider>(context);
     return MaterialApp(
       home: FutureBuilder<bool>(
         future: checkislogin.checkLoginStatus(),

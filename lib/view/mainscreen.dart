@@ -1,9 +1,15 @@
+import 'package:bukbazarr/screens/bookmark.dart';
+import 'package:bukbazarr/screens/category.dart';
 import 'package:bukbazarr/screens/home.dart';
+import 'package:bukbazarr/screens/search.dart';
+import 'package:bukbazarr/widgets/cardwd.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_feather_icons/flutter_feather_icons.dart';
 
 import 'package:provider/provider.dart';
 
 import '../provider/Authprovider.dart';
+import '../screens/settings.dart';
 
 class MainScreen extends StatelessWidget {
   const MainScreen({super.key});
@@ -27,23 +33,11 @@ class __MainscreenState extends State<_Mainscreen>
     with AutomaticKeepAliveClientMixin {
   int current_index = 0;
   List<Widget> screens = const [
-    home(),
-    Text(
-      'Category',
-      style: TextStyle(fontSize: 40),
-    ),
-    Text(
-      'search',
-      style: TextStyle(fontSize: 40),
-    ),
-    Text(
-      'bookmark',
-      style: TextStyle(fontSize: 40),
-    ),
-    Text(
-      'settings',
-      style: TextStyle(fontSize: 40),
-    ),
+    Home(),
+    category(),
+    Search(),
+    BookmarkedPage(),
+    SettingsScreen()
   ];
 
   @override
@@ -57,8 +51,9 @@ class __MainscreenState extends State<_Mainscreen>
       child: Scaffold(
         appBar: AppBar(
           backgroundColor: Color.fromARGB(255, 255, 135, 28),
+
           title: Center(child: Text('BukBazar')),
-          actions: [IconButton(icon: Icon(Icons.more_vert), onPressed: () {})],
+          // actions: [IconButton(icon: Icon(Icons.more_vert), onPressed: () {})],
         ),
         body: Center(
           child: screens[current_index],
